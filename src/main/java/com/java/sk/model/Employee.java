@@ -2,7 +2,6 @@ package com.java.sk.model;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;
-
 @Getter
 @Setter
 @AllArgsConstructor
